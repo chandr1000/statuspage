@@ -4,19 +4,19 @@
     "url": "https://www.chandr1000.net",
     "icon": "https://favicons.githubusercontent.com/www.chandr1000.net",
     "slug": "chandra-s-network-web-service",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 778,
-    "timeDay": 778,
-    "timeWeek": 778,
-    "timeMonth": 778,
-    "timeYear": 778,
+    "status": "up",
+    "uptime": "62.90%",
+    "uptimeDay": "62.90%",
+    "uptimeWeek": "62.90%",
+    "uptimeMonth": "62.90%",
+    "uptimeYear": "62.90%",
+    "time": 785,
+    "timeDay": 785,
+    "timeWeek": 785,
+    "timeMonth": 785,
+    "timeYear": 785,
     "dailyMinutesDown": {
-      "2022-09-21": 0
+      "2022-09-21": 200
     }
   }
 ]
