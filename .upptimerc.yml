@@ -8,6 +8,7 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 30000
+    showAverageResponseTime: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,7 +23,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Kembali ke situs asli
+    - title: Beranda
       href: https://chandr1000.net
 
 # Upptime also supports notifications, assigning issues, and more
